@@ -1,0 +1,24 @@
+{
+  "name": "iti_bank",
+  "version": "1.0.0",
+  "description": "Banking-System",
+  "main": "main.js",
+  "scripts": {
+    "start":" index.html",
+    "build":"build index.html"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedHesham0100/iti-bank.git"
+  },
+  "keywords": [
+    "iti-bank"
+  ],
+  "author": "Ahmed Hesham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedHesham0100/iti-bank/issues"
+  },
+  "homepage": "https://github.com/AhmedHesham0100/iti-bank#readme"
+}
